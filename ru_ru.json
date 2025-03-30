@@ -1,0 +1,81 @@
+{
+    "key.autotools.get_tool" : "Выбрать инструмент/Переключение",
+    "key.autotools.category" : "AutoTools",
+
+    "chat.enabled_autotools": "AutoTools §2Включен§f!",
+    "chat.disabled_autotools": "AutoTools §4Выключен§f!",
+
+    "ui.toast.autotools.durability_warning": "Слишком низкая прочность: %s",
+
+
+    "autotools.configuration.AutoTools": "Конфигурация AutoTools",
+    "autotools.configuration.toggle" : "Переключение",
+    "autotools.configuration.showDPS" : "Показывать Dps",
+    "autotools.configuration.keepSlot": "Сохранить выбранный слот",
+    "autotools.configuration.disableCreative": "Отключить в креативе",
+    "autotools.configuration.preferSilkTouch": "Предпочитать шёлковое касание",
+    "autotools.configuration.preferSilkTouch.always": "Всегда",
+    "autotools.configuration.preferSilkTouch.always_ores": "Руды",
+    "autotools.configuration.preferSilkTouch.except_ores": "Кроме руд",
+    "autotools.configuration.preferSilkTouch.never": "Никогда",
+    "autotools.configuration.alwaysPreferFortune": "Предпочитать Удачу",
+    "autotools.configuration.onlySwitchIfNecessary": "Переключение только при необходимости",
+    "autotools.configuration.preferHotbarTool": "Предпочитать слот быстрого доступа",
+    "autotools.configuration.preferLowDurability": "Предпочитать меньшую прочность",
+    "autotools.configuration.switchBack": "Переключение обратно",
+    "autotools.configuration.changeForEntities": "Менять для сущности",
+    "autotools.configuration.keepAxe": "Держать топор",
+
+    "autotools.configuration.enabled": "Включенно",
+    "autotools.configuration.enabled.always": "Всегда",
+    "autotools.configuration.enabled.tool": "Инструмент в руке",
+    "autotools.configuration.enabled.no_tool": "Без инструмента в руке",
+
+    "autotools.configuration.ignoredSlots": "Игнорировать слоты",
+    "autotools.configuration.targetSlots": "Использовать слоты",
+
+    "autotools.configuration.minDurability": "Минимальная прочность",
+    "autotools.configuration.durabilityCheck": "Проверка прочности",
+
+    "autotools.configuration.customTools": "Пользовательские инструменты",
+
+    "autotools.configuration.experimentalBreakDelay": "[Экспериментально] Задержка ломания",
+
+
+
+    "text.autoconfig.autotools.title": "Конфигурация AutoTools",
+
+    "text.autoconfig.autotools.option.toggle" : "Переключение",
+    "text.autoconfig.autotools.option.showDPS" : "Показывать Dps",
+    "text.autoconfig.autotools.option.keepSlot": "Сохранить выбранный слот",
+    "text.autoconfig.autotools.option.disableCreative": "Отключить в креативе",
+    "text.autoconfig.autotools.option.preferSilkTouch": "Предпочитать шёлковое касание",
+    "text.autoconfig.autotools.option.preferSilkTouch.always": "Всегда",
+    "text.autoconfig.autotools.option.preferSilkTouch.always_ores": "Руды",
+    "text.autoconfig.autotools.option.preferSilkTouch.except_ores": "Кроме руд",
+    "text.autoconfig.autotools.option.preferSilkTouch.never": "Никогда",
+    "text.autoconfig.autotools.option.alwaysPreferFortune": "Предпочитать удачу",
+    "text.autoconfig.autotools.option.onlySwitchIfNecessary": "Переключение только при необходимости",
+    "text.autoconfig.autotools.option.preferHotbarTool": "Предпочитать слот быстрого доступа",
+    "text.autoconfig.autotools.option.preferLowDurability": "Предпочитать меньшую прочность",
+    "text.autoconfig.autotools.option.switchBack": "Переключение обратно",
+    "text.autoconfig.autotools.option.changeForEntities": "Менять для сущности",
+    "text.autoconfig.autotools.option.keepAxe": "Держать топор",
+
+    "text.autoconfig.autotools.option.enabled": "Включенно",
+    "text.autoconfig.autotools.option.enabled.always": "Всегда",
+    "text.autoconfig.autotools.option.enabled.tool": "Инструмент в руке",
+    "text.autoconfig.autotools.option.enabled.no_tool": "Без инструмента в руке",
+
+    "text.autoconfig.autotools.option.ignoredSlots": "Игнорировать слоты",
+    "text.autoconfig.autotools.option.targetSlots": "Использовать слоты",
+
+    "text.autoconfig.autotools.option.minDurability": "Минимальная прочность",
+    "text.autoconfig.autotools.option.durabilityCheck": "Проверка прочности",
+
+    "text.autoconfig.autotools.option.customTools": "Пользовательские инструменты",
+
+    "text.autoconfig.autotools.option.experimentalBreakDelay": "[Экспериментально] Задержка ломания",
+
+    "autotools.configuration.customTools.tooltip": "Добавление пользовательских конфигураций инструментов в формате JSON\nнапр. {\"minecraft:block_id\":\"minecraft:tool_id\"} или customTools={\"minecraft:block_id\":[\"minecraft:tool_id_1\", \"minecraft:tool_id_2\"]}\nПри добавлении нескольких инструментов первый из них имеет наивысший приоритет\nСуществуют также предопределенные списки для групп инструментов: autotools:pickaxe, autotools:axe, autotools:shovel, autotools.hoe, autotools:sword\nИспользуйте \"autotools:disabled\" Чтобы отключить AutoTools для определенного блока\nТакже работает для сущности: \"minecraft:entity_id\":\"minecraft:tool_id"
+}
