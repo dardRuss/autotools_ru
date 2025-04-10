@@ -1,6 +1,6 @@
 # autotools_ru
-Translation for the mod AutoTools
-Перевод для модa AutoTools
+Translation for the mod AutoTools\nПеревод для модa AutoTools
 
-If you have any questions, write to my discord -> dardrus
-Если есть вопросы пишите в мой дискорд -> dardrus
+
+If you have any questions, write to my discord -> dardruss\nЕсли есть вопросы пишите в мой дискорд -> dardruss
+
